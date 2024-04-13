@@ -1,0 +1,26 @@
+.progressFeedback {
+  padding: 1rem;
+}
+.resultFeedback {
+  margin-bottom: 1rem;
+}
+.rootContainer {
+  padding: 0 1rem;
+}
+.scrollContainer {
+  border: 1px solid;
+  height: 10rem;
+  overflow-y: auto;
+  padding: 0.5rem 1rem;
+  width: 20rem;
+}
+.scrollTarget {
+  position: relative;
+  top: -2rem;
+}
+.toolbar {
+  align-items: center;
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
